@@ -1,2 +1,2 @@
 # visitingcard
-![alt text](file:///C:/Users/dell/Documents/ubuntu/assignment/visitingcard.html)
+![alt text]("C:\Users\dell\Pictures\Screenshots\Screenshot (176).png")
