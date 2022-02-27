@@ -1,2 +1,2 @@
 # visitingcard
-![alt text]("https://postimg.cc/ZBTb29QK")
+![visitingcard.png](https://postimg.cc/yJKs3gsX)
